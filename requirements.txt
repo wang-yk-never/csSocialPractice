@@ -1,0 +1,5 @@
+mkdocs==1.2.4
+mkdocs-material==8.2.1
+mkdocs-material-extensions
+nltk>=3.7
+mkdocs-minify-plugin
