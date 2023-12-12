@@ -8,5 +8,5 @@
 3. 更多说明请看 https://www.mkdocs.org/getting-started/
 
 ## 使用方法
-1. 按照正常markdown语法编写.md文件即可# cod_docs
-# csSocialPractice
+1. 按照正常markdown语法编写.md文件即可
+
