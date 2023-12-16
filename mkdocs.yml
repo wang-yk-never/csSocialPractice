@@ -1,13 +1,13 @@
 site_name: 计算机系实践组 | 支队长手册
-repo_url: 
-repo_name: Leader Document | csSocialPractice
+repo_url: https://github.com/wang-yk-never/csSocialPractice
+repo_name: csSocialPractice
 
 theme:
   name: material
   language: zh
   features:
     - navigation.top
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.indexes
   palette:
     - primary: dark blue
@@ -35,7 +35,16 @@ theme:
       quote: octicons/quote-16
 
 nav: 
-  - 文档简介: index.md
+  - 全流程实践指南: index.md
+  - 专题实践指北:
+    - 社会调研类: 专题实践指北/社会调研类.md
+    - 支教公益类: 专题实践指北/支教公益类.md
+    - 专业认知类: 专题实践指北/专业认知类.md
+    - 海外实践: 专题实践指北/海外实践.md
+  - 报销指北: 报销指北.md
+  - FAQ:
+    - 流程相关: FAQ/流程相关.md
+    - 报销相关: FAQ/报销相关.md
 
 markdown_extensions:
   - admonition
